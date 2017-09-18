@@ -816,6 +816,14 @@ img {
   flex: 0 auto;
 }
 
+.webflow-link-block {
+  padding: 10px;
+}
+
+.image-6 {
+  padding: 10px;
+}
+
 @media (max-width: 991px) {
   .personal-info-text {
     font-size: 1.27em;
